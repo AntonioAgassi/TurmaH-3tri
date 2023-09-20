@@ -1,6 +1,6 @@
 # TurmaH-3tri
 Pensamento Computacional - 1º ano
 ## Professora de pensamento computacional **1º ano**
-## sou formado em matemática e física.
+## Sou formado em matemática e física.
 ## Quanto a minha experiência em pensamento computacional, este é o primeiro ano que estou trabalhando.
-##Não tenho em mente qual projeto irei desenvolver.
+## Não tenho em mente qual projeto irei desenvolver.
