@@ -1,7 +1,10 @@
 h1{
-    text-align:center;
-    color:blueviolet;
-    font-size: 40px;
+    #titulo {
+        text-align:center;
+        color:blueviolet;
+        font-size: 40px;
+    }
+    
 
 }
 p{
