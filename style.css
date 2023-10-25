@@ -1,7 +1,7 @@
 h1{
     #titulo {
         text-align:center;
-        color:blueviolet;
+        color:rgb(179, 167, 190);
         font-size: 40px;
     }
     
@@ -10,11 +10,11 @@ h1{
 p{
     color:rgb(185, 20, 56);
 }
-
-p {text-align: justify;
+#texto{p {text-align: justify;
     
 }
 body{
-    background:aqua;
+    background:aqua;}
+
     
 }
