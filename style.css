@@ -1,20 +1,23 @@
-h1{
-    #titulo {
+body{
+    background:aqua;
+}
+#titulo {    
         text-align:center;
         color:rgb(179, 167, 190);
         font-size: 40px;
     }
     
 
-}
-p{
+
+.texto{
     color:rgb(185, 20, 56);
+    text-align: justify;
 }
-#texto{p {text-align: justify;
-    
-}
-body{
-    background:aqua;}
+
 
     
-}
+
+
+    
+
+    
