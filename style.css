@@ -18,8 +18,9 @@ body{
     height: 300px;
     width: 450px;
     padding: 10px;
-    margin: 15px;
-    border: solid aqua;
+    margin: 5px;
+    border: 0.5px double aqua;
+border-radius: 25px;
 }
     
 
